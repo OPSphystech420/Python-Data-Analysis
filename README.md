@@ -1,7 +1,7 @@
 ## Lab work with a task of data analysis
 Current repository provides an example of usage python matplotlib and pandas libs for making data analytics and plotting, using indirect data of crypto coins courses and other records in a timeline. 
 ### Сonstituent 
-file **Coins.csv** contains data table
+file **coins.csv** contains data table
 
 file **lab_work.ipnyb** using Jupyter Notebook IDE for python analytics
 ### Result
@@ -23,7 +23,7 @@ Complete Lab work contains 9 tasks and it's implementation in python and conclus
 ## Лабораторная работа с задачей анализа данных
 В текущем репозитории приведен пример использования либ python matplotlib и pandas для проведения анализа данных и построения графиков, используя косвенные данные курсов криптомонет и других записей на временной шкале. 
 ### Содержимое 
-файл **Coins.csv** содержит таблицу данных
+файл **coins.csv** содержит таблицу данных
 
 файл **lab_work.ipnyb** с использованием IDE Jupyter Notebook для аналитики на языке python
 ### Результат
